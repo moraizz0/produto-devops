@@ -1,0 +1,2 @@
+      - name: Compilar
+        run: javac *.java
